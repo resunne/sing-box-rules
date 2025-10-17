@@ -2,8 +2,8 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": [
-        ".199998.xyz"
+      "domain": [
+        "199998.xyz"
       ]
     }
   ]
