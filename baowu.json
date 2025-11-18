@@ -1,13 +1,20 @@
 {
-    "version": 3,
-    "rules": [
-        {
-            "domain_suffix": [
-                ".baowuresources.info",
-                ".baocloud.cn",
-                ".baowugroup.cn",
-                ".baosight.com"
-            ]
-        }
-    ]
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "baowuresources.info",
+        "baocloud.cn",
+        "baowugroup.cn",
+        "baosight.com",
+        "gitlab.baocloud.cn"
+      ],
+      "domain_suffix": [
+        ".baowuresources.info",
+        ".baocloud.cn",
+        ".baowugroup.cn",
+        ".baosight.com"
+      ]
+    }
+  ]
 }

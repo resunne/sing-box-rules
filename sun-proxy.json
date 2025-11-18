@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "hmoe.top"
+        "hmoe.top",
+        "file.cnxiaobai.com"
       ]
     }
   ]
