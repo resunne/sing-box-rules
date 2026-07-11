@@ -7,13 +7,15 @@
         "baocloud.cn",
         "baowugroup.cn",
         "baosight.com",
-        "gitlab.baocloud.cn"
+        "gitlab.baocloud.cn",
+        "baowugroup.com"
       ],
       "domain_suffix": [
         ".baowuresources.info",
         ".baocloud.cn",
         ".baowugroup.cn",
-        ".baosight.com"
+        ".baosight.com",
+        ".baowugroup.com"
       ]
     }
   ]

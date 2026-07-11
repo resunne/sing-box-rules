@@ -3,7 +3,11 @@
   "rules": [
     {
       "domain": [
-        "199998.xyz"
+        "199998.xyz",
+        "kdocs.cn"
+      ],
+      "domain_suffix": [
+        ".kdocs.cn"
       ]
     }
   ]
